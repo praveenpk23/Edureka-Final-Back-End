@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "name": "The Spice Kitchen",
+        "location": "Chennai",
+        "image": "./Images/idili.png"
+    },
+    {
+        "id": 2,
+        "name": "Saravana Bhavan",
+        "location": "Chennai",
+        "image": "/Images/saravana_bhavan.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Café Nirvana",
+        "location": "Coimbatore",
+        "image": "/Images/cafe_nirvana.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Pizza Hut",
+        "location": "Coimbatore",
+        "image": "/Images/pizza_hut.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Italiano Trattoria",
+        "location": "Madurai",
+        "image": "/Images/italiano_trattoria.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Burger King",
+        "location": "Madurai",
+        "image": "/Images/burger_king.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Thai Delight",
+        "location": "Salem",
+        "image": "/Images/thai_delight.png"
+    },
+    {
+        "id": 8,
+        "name": "McDonald's",
+        "location": "Salem",
+        "image": "/Images/mcdonalds.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Sushi Palace",
+        "location": "Trichy",
+        "image": "/Images/sushi_palace.jpg"
+    },
+    {
+        "id": 10,
+        "name": "KFC",
+        "location": "Trichy",
+        "image": "/Images/kfc.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Mamma Mia Pizzeria",
+        "location": "Tirunelveli",
+        "image": "/Images/mamma_mia_pizzeria.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Dominos",
+        "location": "Tirunelveli",
+        "image": "/Images/dominos.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Burger Haven",
+        "location": "Erode",
+        "image": "/Images/burger_haven.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Subway",
+        "location": "Erode",
+        "image": "/Images/subway.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Mexican Fiesta",
+        "location": "Thanjavur",
+        "image": "/Images/mexican_fiesta.png"
+    }
+ 
+]

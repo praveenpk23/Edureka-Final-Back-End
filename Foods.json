@@ -1,0 +1,152 @@
+[
+    {
+        "name": "Butter Chicken",
+        "restaurant": "The Raintree Hotel, Anna Salai",
+        "id": 1,
+        "location": "Chennai",
+        "address": "123 Spice Street, Tasty Colony, Chennai",
+        "description": "Culinary hotspot with flavorful dishes.",
+        "contact": "+91 1234567890",
+        "image": "https://pkimages.netlify.app/images/drinks.png"
+    },
+    {
+        "name": "Masala Dosa",
+        "restaurant": "Taj Connemara",
+        "id": 2,
+        "location": "Chennai",
+        "address": "456 South Indian Avenue, Chennai",
+        "description": "Renowned for authentic South Indian cuisine.",
+        "contact": "+91 9876543210",
+        "image": "https://pkimages.netlify.app/images/idli.png"
+    },
+    {
+        "name": "Espresso",
+        "restaurant": "ITC Grand Chola",
+        "id": 3,
+        "location": "Coimbatore",
+        "address": "789 Zen Road, Peaceful Area, Coimbatore",
+        "description": "Peaceful café with delectable offerings.",
+        "contact": "+91 9999999999",
+        "image": "https://pkimages.netlify.app/images/334.png"
+    },
+    {
+        "name": "Pepperoni Pizza",
+        "restaurant": "Radisson Blu Hotel Chennai",
+        "id": 4,
+        "location": "Coimbatore",
+        "address": "101 Pizza Plaza, Crispy Lane, Coimbatore",
+        "description": "Global favorite for crispy pizzas.",
+        "contact": "+91 8888888888",
+        "image": "https://pkimages.netlify.app/images/7.png"
+    },
+    {
+        "name": "Ravioli",
+        "restaurant": "The Park Chennai",
+        "id": 5,
+        "location": "Madurai",
+        "address": "321 Italian Alley, Pasta District, Madurai",
+        "description": "Taste of Italy with pasta and risotto.",
+        "contact": "+91 7777777777",
+        "image": "https://pkimages.netlify.app/images/3222.png"
+    },
+    {
+        "name": "Whopper Burger",
+        "restaurant": "Vivanta Chennai IT Expressway",
+        "id": 6,
+        "location": "Madurai",
+        "address": "567 Burger Boulevard, Juicy Town, Madurai",
+        "description": "Juicy burgers and fries for burger aficionados.",
+        "contact": "+91 6666666666",
+        "image": "https://pkimages.netlify.app/images/33321112.png"
+    },
+    {
+        "name": "Tom Yum Soup",
+        "restaurant": "Courtyard by Marriott Chennai",
+        "id": 7,
+        "location": "Salem",
+        "address": "741 Thai Terrace, Spicy Street, Salem",
+        "description": "Spicy and flavorful Thai dishes in a delightful ambiance.",
+        "contact": "+91 5555555555",
+        "image": "https://pkimages.netlify.app/images/21.png"
+    },
+    {
+        "name": "Big Mac",
+        "restaurant": "The Accord Metropolitan",
+        "id": 8,
+        "location": "Salem",
+        "address": "852 Fast Food Lane, Salem",
+        "description": "Quick and tasty meals for those on the go.",
+        "contact": "+91 4444444444",
+        "image": "https://pkimages.netlify.app/images/8.png"
+    },
+    {
+        "name": "Sushi Rolls",
+        "restaurant": "Hilton Chennai",
+        "id": 9,
+        "location": "Trichy",
+        "address": "963 Sushi Square, Fisherman's Wharf, Trichy",
+        "description": "Fresh and delicious sushi with traditional Japanese flavors.",
+        "contact": "+91 3333333333",
+        "image": "https://pkimages.netlify.app/images/78.png"
+    },
+    {
+        "name": "Original Recipe Chicken",
+        "restaurant": "The Leela Palace Chennai",
+        "id": 10,
+        "location": "Trichy",
+        "address": "258 Fried Chicken Road, Crispy Corner, Trichy",
+        "description": "Crispy, juicy, and finger-licking good fried chicken.",
+        "contact": "+91 2222222222",
+        "image": "https://pkimages.netlify.app/images/pizza.png"
+    },
+    {
+        "name": "Margherita Pizza",
+        "restaurant": "Radisson Blu Hotel Chennai",
+        "id": 11,
+        "location": "Tirunelveli",
+        "address": "369 Pizza Place, Cheese Lane, Tirunelveli",
+        "description": "Cheesy pizzas are the star of the show.",
+        "contact": "+91 1111111111",
+        "image": "https://pkimages.netlify.app/images/samosa.png"
+    },
+    {
+        "name": "Veggie Supreme Pizza",
+        "restaurant": "The Park Chennai",
+        "id": 12,
+        "location": "Tirunelveli",
+        "address": "147 Domino Drive, Pepperoni Park, Tirunelveli",
+        "description": "Another pizza favorite with a variety of toppings.",
+        "contact": "+91 9999999999",
+        "image": "https://pkimages.netlify.app/images/334.png"
+    },
+    {
+        "name": "Classic Cheeseburger",
+        "restaurant": "Crowne Plaza Chennai Adyar Park",
+        "id": 13,
+        "location": "Erode",
+        "address": "753 Burger Boulevard, Erode",
+        "description": "A haven for burger lovers with juicy patties.",
+        "contact": "+91 7777777777",
+        "image": "https://pkimages.netlify.app/images/21.png"
+    },
+    {
+        "name": "Veggie Delight Sub",
+        "restaurant": "Hyatt Regency Chennai",
+        "id": 14,
+        "location": "Erode",
+        "address": "951 Sub Avenue, Sandwich Square, Erode",
+        "description": "Fresh and customizable sandwiches for a quick bite.",
+        "contact": "+91 8888888888",
+        "image": "https://pkimages.netlify.app/images/nightlife.png"
+    },
+    {
+        "name": "Quesadilla",
+        "restaurant": "The Westin Chennai Velachery",
+        "id": 15,
+        "location": "Thanjavur",
+        "address": "159 Taco Street, Salsa District, Thanjavur",
+        "description": "Experience the flavors of Mexico with tacos and salsa.",
+        "contact": "+91 6666666666",
+        "image": "https://pkimages.netlify.app/images/pizza.png"
+    }
+]
